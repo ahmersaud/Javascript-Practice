@@ -1,0 +1,35 @@
+/* css works like this
+
+Selector {
+    Property:value;
+} 
+*/
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+body{
+    /* background-color: bisque; */
+    background-image: url("wallpaper1.jpg");
+    background-size: cover;
+}
+
+h1 {
+    background-color: rgba(255, 14, 14, 0.5);
+    color: black;
+    text-align: center;
+    border: black 2px solid;
+    cursor: pointer;
+}
+
+.Section-p{
+    text-align: center;
+}
+
+
+
+footer{
+    text-align:center;
+}
