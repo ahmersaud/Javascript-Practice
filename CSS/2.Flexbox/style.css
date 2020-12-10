@@ -16,4 +16,8 @@ h1{
 img{
     width: 150px;
     height: 100px;
+    transition: 1s;
+}
+img:hover{
+    transform: scale(1.1);
 }
