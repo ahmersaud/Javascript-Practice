@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    border-bottom: gray solid 2px;
+    justify-content: center;
+    font-weight: 100;
+    
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+img{
+    width: 150px;
+    height: 100px;
+}
